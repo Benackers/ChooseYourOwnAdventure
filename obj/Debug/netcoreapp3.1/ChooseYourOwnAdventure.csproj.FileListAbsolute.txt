@@ -1,0 +1,13 @@
+G:\ChooseYourOwnAdventure\obj\Debug\netcoreapp3.1\ChooseYourOwnAdventure.csprojAssemblyReference.cache
+G:\ChooseYourOwnAdventure\obj\Debug\netcoreapp3.1\ChooseYourOwnAdventure.AssemblyInfoInputs.cache
+G:\ChooseYourOwnAdventure\obj\Debug\netcoreapp3.1\ChooseYourOwnAdventure.AssemblyInfo.cs
+G:\ChooseYourOwnAdventure\obj\Debug\netcoreapp3.1\ChooseYourOwnAdventure.csproj.CoreCompileInputs.cache
+G:\ChooseYourOwnAdventure\bin\Debug\netcoreapp3.1\ChooseYourOwnAdventure.exe
+G:\ChooseYourOwnAdventure\bin\Debug\netcoreapp3.1\ChooseYourOwnAdventure.deps.json
+G:\ChooseYourOwnAdventure\bin\Debug\netcoreapp3.1\ChooseYourOwnAdventure.runtimeconfig.json
+G:\ChooseYourOwnAdventure\bin\Debug\netcoreapp3.1\ChooseYourOwnAdventure.runtimeconfig.dev.json
+G:\ChooseYourOwnAdventure\bin\Debug\netcoreapp3.1\ChooseYourOwnAdventure.dll
+G:\ChooseYourOwnAdventure\bin\Debug\netcoreapp3.1\ChooseYourOwnAdventure.pdb
+G:\ChooseYourOwnAdventure\obj\Debug\netcoreapp3.1\ChooseYourOwnAdventure.dll
+G:\ChooseYourOwnAdventure\obj\Debug\netcoreapp3.1\ChooseYourOwnAdventure.pdb
+G:\ChooseYourOwnAdventure\obj\Debug\netcoreapp3.1\ChooseYourOwnAdventure.genruntimeconfig.cache
