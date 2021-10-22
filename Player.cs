@@ -6,16 +6,10 @@ namespace Adventure
         public int health = 20;
         public string gender;
         public string race;
-        class playerWeapon
-        {
-            public string weapon = null;
-            public int weaponDamage = 0;
-        }
-        class playerArmor
-        {
-            public string armorType = null;
-            public int armorHealth = 0;
-        }
+        public string weapon = "fist";
+        public int weaponDamage = 5;
+        public string armorType = "cloth";
+        public int armorHealth = 0;
 
     }
 

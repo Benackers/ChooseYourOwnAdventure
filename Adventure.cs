@@ -6,6 +6,7 @@ namespace Adventure
     {
 
         public static Player mainCharacter = new Player();
+        public static enemy firstEnemy = new enemy();
         public static void Main(string[] args)
         {
             Start();
@@ -90,10 +91,15 @@ namespace Adventure
                         break;
                 }
             }
-            Console.WriteLine($"Your name is {mainCharacter.name} and you are a {mainCharacter.gender} {mainCharacter.race}");
+            Console.WriteLine($"Your name is {mainCharacter.name} and you are a {mainCharacter.gender} {mainCharacter.race}. You Currently have 20 health. You have only your fists as a weapon. You have no armor.");
+            Console.WriteLine("------------------------------------------- The Story Begins -------------------------------------------");
+            Console.WriteLine("Narrator: You wake up to darkness, you hear the sound of water drips echoing through a large chamber. You hear the sound of your breathing echoing. You feel your arms tied behind your back, sitting on a chair. A short test of the bonds show they are secure...");
+            Console.WriteLine("RANDOM JUMP TO ACTION");
+            Console.WriteLine("A large Orc enters the chamber. He's looking for a fight.");
+            firstEnemy.health = 20;
+            firstEnemy.damage = 5;
+            Encounters.combat(mainCharacter.health, mainCharacter.weaponDamage, mainCharacter.armorHealth, firstEnemy.damage, firstEnemy.health);
         }
-
     }
-
 }
 
